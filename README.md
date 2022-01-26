@@ -29,7 +29,7 @@ https://unityroom.com/games/starship
 + 脱走！ロボ軍団  
 https://unityroom.com/games/fisherescape
 
-A-Frameでブラウザで動作するVRゲームを作成しました。
+A-FrameでOculus Questのブラウザで動作するVRゲームを作成しました。
 
 + Hit And Shoot  
 https://hit-and-shoot.glitch.me/
